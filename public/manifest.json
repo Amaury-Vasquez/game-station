@@ -1,0 +1,26 @@
+{
+  "short_name": "Game Station",
+  "name": "Game web site created by Amaury Vasquez",
+  "icons": [
+    {
+      "src": "game.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "game192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "game512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#c64756",
+  "background_color": "#c64756"
+}
